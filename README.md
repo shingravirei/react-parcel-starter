@@ -1,8 +1,13 @@
 # React Parcel Starter
 
 **Usage**
+
 ```bash
 git clone https://github.com/shingravirei/react-parcel-starter.git <dir-name>
+```
+
+```bash
+npm install
 ```
 
 To start the development server
