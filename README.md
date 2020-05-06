@@ -18,9 +18,8 @@ To build your project
 ```bash
 npm run build
 ```
-To delete the build and temp directories
+To delete the build/temp directories
 ```bash
 npm run clean
 ```
 
-Easy right? :smirk:
