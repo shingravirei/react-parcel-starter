@@ -7,7 +7,7 @@ git clone https://github.com/shingravirei/react-parcel-starter.git <dir-name>
 ```
 
 ```bash
-npm install
+cd <dir-name> && npm install
 ```
 
 To start the development server
